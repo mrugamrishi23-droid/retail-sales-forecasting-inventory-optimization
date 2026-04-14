@@ -1,8 +1,8 @@
-📊 Retail Sales Forecasting \& Inventory Optimization System
+📊 **Retail Sales Forecasting \& Inventory Optimization System**
 
 
 
-📊 Forecast demand. 📦 Optimize inventory. 🚀 Drive smarter retail decisions.
+📊 **Forecast demand.** 📦 **Optimize inventory.** 🚀 **Drive smarter retail decisions.**
 
 
 
